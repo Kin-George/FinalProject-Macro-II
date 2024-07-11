@@ -2,7 +2,7 @@
 
 Este repositorio contiene todo el material pertinente al trabajo final de macro II.
 
-Las carpetas hacen referencia a lo que se encuentra (los tipos de modelos):
+Las carpetas hacen referencia a lo que se encuentra (los tipos de modelos):  
 -> Standar-RBC: Modelo de trabajo divisible.
 -> RBC-I_Extension: Modelo de trabajo indivisible.
 -> RBC-II_Extension: Modelo de preferencias no separables en ocio.
