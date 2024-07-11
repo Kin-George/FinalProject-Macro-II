@@ -3,7 +3,7 @@
 Este repositorio contiene todo el material pertinente al trabajo final de macro II.
 
 Las carpetas hacen referencia a lo que se encuentra (los tipos de modelos):  
--> Standar-RBC: Modelo de trabajo divisible.
+-> Standar-RBC: Modelo de trabajo divisible.  
 -> RBC-I_Extension: Modelo de trabajo indivisible.  
 -> RBC-II_Extension: Modelo de preferencias no separables en ocio.  
 -> RBC-III_Extension: Modelo de gasto de gobierno.  
@@ -18,7 +18,8 @@ Las carpetas hacen referencia a lo que se encuentra (los tipos de modelos):
 	open5.mod: Mercado de activos completos.  
 
 Dentro de la carpeta se encuentran los archivos .mod para realizar la replica de la simulación.
-Con lo cual basta clonar el repositorio, abrir Matlab, seleccionar que archivo se quiere ejecutar, y usar Dynare para ejecutarlo.
+Con lo cual basta clonar el repositorio, abrir Matlab, seleccionar que archivo se quiere ejecutar, y usar Dynare para ejecutarlo.  
+En los codigos de NK se debe especificar que choque se quiere realizar para que el .mod genere el grafico correspondiente.
 
 Además, se cuenta con el archivo .pdf en donde se presentan los análisis realizados.
 
